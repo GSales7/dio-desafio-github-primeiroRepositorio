@@ -15,8 +15,8 @@
     - Acima de 40 => Obesidade Grave
 */
 
-const peso = 72.0;
-const altura = 1.71;
+const peso = 63;
+const altura = 1.75;
 
 //const imc = peso / (altura * altura);
 const imc = peso / Math.pow(altura, 2);
